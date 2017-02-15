@@ -1,0 +1,6 @@
+look
+class test
+{
+}
+
+
